@@ -1,0 +1,122 @@
+[
+  {
+    "question": "How do I open a bank account?",
+    "answer": "To open a bank account, visit your nearest branch with a valid ID proof (Aadhaar/Passport), address proof, PAN card, and passport-size photos. You can also open an account online through our website or mobile app by completing the KYC process digitally."
+  },
+  {
+    "question": "What types of bank accounts are available?",
+    "answer": "We offer Savings Account, Current Account, Fixed Deposit (FD), Recurring Deposit (RD), Salary Account, and NRI Accounts (NRE/NRO). Each account type is designed for different financial needs."
+  },
+  {
+    "question": "What is the minimum balance required?",
+    "answer": "The minimum balance for a regular Savings Account is ₹1,000 for rural branches and ₹5,000 for urban branches. Zero-balance accounts are available under the Basic Savings Bank Deposit (BSBD) scheme."
+  },
+  {
+    "question": "How can I check my account balance?",
+    "answer": "You can check your balance via: 1) Mobile Banking App, 2) Internet Banking portal, 3) ATM, 4) SMS Banking by sending 'BAL' to 56789, 5) Missed call service at 1800-XXX-1234, or 6) Passbook at the branch."
+  },
+  {
+    "question": "How do I transfer money using NEFT?",
+    "answer": "NEFT (National Electronic Funds Transfer) allows transfers during bank working hours. Log in to Internet/Mobile Banking, go to 'Fund Transfer', add the beneficiary with IFSC code, and initiate the transfer. NEFT settles in half-hourly batches."
+  },
+  {
+    "question": "What is the difference between NEFT, RTGS, and IMPS?",
+    "answer": "NEFT: Settled in batches, available 24x7, no minimum amount. RTGS: Real-time settlement, minimum ₹2 lakh, best for large transfers. IMPS: Instant transfer, available 24x7, limit up to ₹5 lakh per transaction. Use IMPS or UPI for instant small transfers."
+  },
+  {
+    "question": "What is the UPI transfer limit?",
+    "answer": "The standard UPI transaction limit is ₹1 lakh per transaction per day. Some banks allow up to ₹2 lakh for specific categories. You can do multiple transactions within the daily limit set by your bank."
+  },
+  {
+    "question": "How do I block my debit card?",
+    "answer": "To block your debit card immediately: 1) Call our 24x7 helpline 1800-XXX-0000, 2) Use Mobile Banking App under 'Card Services > Block Card', 3) Send SMS 'BLOCK XXXX' (last 4 digits) to 56789, or 4) Visit the nearest branch."
+  },
+  {
+    "question": "How do I reset my ATM PIN?",
+    "answer": "You can reset your ATM PIN via: 1) Green PIN generation through ATM using OTP, 2) Mobile Banking App under 'Card Services > Change PIN', 3) Internet Banking portal, or 4) Visit the branch with your card and ID proof."
+  },
+  {
+    "question": "What is the ATM withdrawal limit?",
+    "answer": "The daily ATM withdrawal limit is ₹25,000 for regular savings accounts. Premium account holders can withdraw up to ₹1 lakh per day. You are allowed 5 free transactions per month at other bank ATMs."
+  },
+  {
+    "question": "How do I apply for a personal loan?",
+    "answer": "To apply for a personal loan, you need: age 21–58, minimum salary ₹25,000/month, 2 years of employment, credit score 700+. Apply online through our app, visit a branch, or call our loan helpline. Approval typically takes 24–48 hours."
+  },
+  {
+    "question": "What is the interest rate on personal loans?",
+    "answer": "Personal loan interest rates range from 10.5% to 18% per annum depending on your credit score, income, and loan tenure. Existing customers with good repayment history may get preferential rates starting from 10.5% p.a."
+  },
+  {
+    "question": "How can I apply for a home loan?",
+    "answer": "Home loans are available for purchase, construction, or renovation. Eligibility requires stable income, good credit score (750+), and property documents. Loan-to-Value ratio is up to 90% for loans below ₹30 lakh. Apply online or visit our home loan desk."
+  },
+  {
+    "question": "What documents are needed for KYC?",
+    "answer": "KYC requires: Identity Proof (Aadhaar, PAN, Passport, Voter ID, Driving License), Address Proof (Aadhaar, utility bill, rental agreement), and a recent passport-size photograph. For businesses, additional documents like GST certificate may be needed."
+  },
+  {
+    "question": "How do I update my KYC details?",
+    "answer": "Update KYC by: 1) Visiting the branch with original documents, 2) Video KYC through Mobile Banking App, 3) Uploading documents via Internet Banking portal. KYC must be renewed every 2 years for high-risk customers and every 10 years for low-risk customers."
+  },
+  {
+    "question": "What is the interest rate on savings accounts?",
+    "answer": "Savings account interest rates are 3.5% p.a. for balances up to ₹1 lakh and 4% p.a. for balances above ₹1 lakh. Interest is calculated daily and credited quarterly to your account."
+  },
+  {
+    "question": "What are the Fixed Deposit interest rates?",
+    "answer": "FD interest rates range from 4.5% to 7.5% p.a. depending on tenure. Senior citizens get an additional 0.5% p.a. Tenures range from 7 days to 10 years. Interest can be paid monthly, quarterly, or on maturity."
+  },
+  {
+    "question": "How do I open a Fixed Deposit?",
+    "answer": "Open an FD through: 1) Mobile Banking App, 2) Internet Banking under 'Deposits > New FD', 3) Visit the branch. Minimum FD amount is ₹1,000. Choose your tenure and interest payout frequency. You'll receive an FD receipt/confirmation immediately."
+  },
+  {
+    "question": "How do I activate internet banking?",
+    "answer": "To activate Internet Banking: Visit our website, click 'New User Registration', enter your account number and registered mobile number, verify with OTP, set your User ID and password. First-time login requires debit card details for verification."
+  },
+  {
+    "question": "How do I download the mobile banking app?",
+    "answer": "Download EaseBanking App from Google Play Store (Android) or Apple App Store (iOS). Search 'EaseBanking', install, and register using your account number and registered mobile number. Activate with OTP and set your MPIN."
+  },
+  {
+    "question": "My mobile banking app is not working. What should I do?",
+    "answer": "Try these steps: 1) Check your internet connection, 2) Clear app cache and restart, 3) Update the app to the latest version, 4) Uninstall and reinstall the app, 5) If the issue persists, call 1800-XXX-0000 or raise a complaint on our website."
+  },
+  {
+    "question": "How do I report a fraudulent transaction?",
+    "answer": "Immediately call 1800-XXX-0000 (24x7) to report fraud and block your account/card. Also report at cybercrime.gov.in and your nearest police station. Keep transaction details ready. RBI mandates banks to resolve fraud complaints within 90 days."
+  },
+  {
+    "question": "What should I do if my card is lost or stolen?",
+    "answer": "Immediately block your card via Mobile App, SMS, or calling 1800-XXX-0000. File a police complaint for theft. Apply for a replacement card online or at the branch. Replacement card is delivered within 5–7 working days."
+  },
+  {
+    "question": "How do I close my bank account?",
+    "answer": "To close your account: Visit the branch with your passbook, debit card (cut into pieces), cheque book, and ID proof. Fill the account closure form. Settle any outstanding dues. Balance amount will be paid via cheque or transfer to another account. Process takes 1–3 working days."
+  },
+  {
+    "question": "What is a CIBIL score and how does it affect loans?",
+    "answer": "CIBIL score (300–900) reflects your credit history. Score above 750 qualifies for best loan rates. 650–750 may get loans with slightly higher rates. Below 650 may result in loan rejection. Check your free CIBIL score annually at cibil.com."
+  },
+  {
+    "question": "How do I get a bank statement?",
+    "answer": "Get your statement via: 1) Mobile/Internet Banking — download PDF instantly, 2) Email request to your registered email, 3) Branch — physical statement with bank seal, 4) ATM mini-statement (last 5 transactions). Statements are also sent monthly to your registered email."
+  },
+  {
+    "question": "What are the bank's working hours?",
+    "answer": "Branch working hours are Monday to Friday: 9:30 AM – 4:30 PM, Saturday: 9:30 AM – 1:30 PM. Branches are closed on Sundays and public holidays. However, ATMs, Mobile Banking, and Internet Banking are available 24x7."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "Reach us via: Toll-free: 1800-XXX-0000 (24x7), Email: support@easebanking.ai, Live Chat on our website/app, or visit your nearest branch. For complaints, use our Grievance Portal on the website. Response time is within 24 hours."
+  },
+  {
+    "question": "Is my money safe in this bank?",
+    "answer": "Yes! Your deposits are insured up to ₹5 lakh per depositor under DICGC (Deposit Insurance and Credit Guarantee Corporation). We use 256-bit SSL encryption, two-factor authentication, and real-time fraud detection to keep your money safe."
+  },
+  {
+    "question": "How do I add a beneficiary for fund transfer?",
+    "answer": "In Mobile/Internet Banking, go to 'Fund Transfer > Manage Beneficiaries > Add New'. Enter beneficiary name, account number, IFSC code, and bank name. Verify with OTP. New beneficiaries have a cooling period of 4 hours before the first transfer, for security."
+  }
+]
